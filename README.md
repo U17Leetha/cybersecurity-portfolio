@@ -16,9 +16,9 @@ My research interests include embedded systems, IoT and medical device security,
 
 | Project | Focus |
 | --- | --- |
+| [Click-Jackalope](https://portswigger.net/bappstore/64ae2a5e5ebd45eb97690f7f583bb8dc) | A Burp Suite extension that generates HTML clickjacking proofs of concept for authorized assessments and analyzes `X-Frame-Options` and CSP `frame-ancestors` to explain expected framing behavior. Published in PortSwigger’s BApp Store on October 29, 2026. |
 | [ClientSideEye](https://github.com/U17Leetha/ClientSideEye) | A Playwright-based CLI for authorized web application assessments that surfaces client-side filtering, password masking, and interface clues related to roles and permissions. |
-| [SweetScan](https://github.com/U17Leetha/sweetscan) | A network reconnaissance utility that combines domain resolution, subnet expansion, and scanning in a single workflow. |
-| [PortScribe](https://github.com/U17Leetha/PortScribe) | A utility that extracts open-port information from Nmap output for review. |
+| [Pythos](https://github.com/U17Leetha/pythos) | A lightweight shell utility for creating, activating, and reusing Python virtual environments in the current shell. |
 
 ## Education and credentials
 
